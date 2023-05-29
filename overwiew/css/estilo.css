@@ -1,0 +1,59 @@
+/*Resetar as configuraçoes do servidor*/
+html, body {
+
+margin: 0;
+padding: 0;
+font-size: 1,2cm;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    text-align: center;
+ }
+
+#red {
+   background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#brown {
+    background-color: brown;
+}
+
+#cyan {
+    background-color: cyan;
+}
+
+#black {
+    background-color:black;
+}
+
+#white {
+    background-color: white;
+}
